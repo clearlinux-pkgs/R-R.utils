@@ -4,7 +4,7 @@
 #
 Name     : R-R.utils
 Version  : 2.7.0
-Release  : 11
+Release  : 12
 URL      : https://cran.r-project.org/src/contrib/R.utils_2.7.0.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/R.utils_2.7.0.tar.gz
 Summary  : Various Programming Utilities
