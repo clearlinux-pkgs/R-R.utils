@@ -4,7 +4,7 @@
 #
 Name     : R-R.utils
 Version  : 2.11.0
-Release  : 44
+Release  : 45
 URL      : https://cran.r-project.org/src/contrib/R.utils_2.11.0.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/R.utils_2.11.0.tar.gz
 Summary  : Various Programming Utilities
